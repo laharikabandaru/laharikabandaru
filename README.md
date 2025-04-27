@@ -1,6 +1,7 @@
 👋 Hi there, I'm Laharika Bandaru!
 
 🚀 About Me
+
 🎓 I'm a B. Tech Computer Science student.
 
 💻 Passionate about Software Development, Machine Learning, and Web Development.

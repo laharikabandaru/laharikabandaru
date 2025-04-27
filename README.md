@@ -23,5 +23,5 @@ Others: Git, GitHub, VS Code
 
 
 
-Email: laharika573@email.com
+Email: laharika573@gmail.com
 

@@ -1,4 +1,5 @@
 👋 Hi there, I'm Laharika Bandaru!
+
 🚀 About Me
 🎓 I'm a B. Tech Computer Science student.
 
@@ -19,9 +20,6 @@ Databases: MySQL, MongoDB
 
 Others: Git, GitHub, VS Code
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats" /> </p>
-📫 How to Reach Me
 
 
 Email: laharika573@email.com

@@ -1,13 +1,28 @@
-- 👋 Hi, I’m @laharikabandaru
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning advanced ML algorithms and DSA
-- 💞️ I’m looking to collaborate on AI-driven projects, especially those involving computer vision or NLP.
-- 📫 How to reach me laharika573@gmail.com
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I love solving puzzles and coding challenges in my free time!
+👋 Hi there, I'm Laharika Bandaru!
+🚀 About Me
+🎓 I'm a B. Tech Computer Science student.
+
+💻 Passionate about Software Development, Machine Learning, and Web Development.
+
+🌱 Currently learning Java Full Stack Development and strengthening my Data Structures and Algorithms.
+
+🎯 Goal: Build impactful solutions and contribute to open-source projects.
+
+✨ Always eager to learn new technologies and collaborate with others.
+
+🛠️ Technologies & Tools
+Languages: Python, Java, SQL
+
+Frameworks/Libraries: Flask, React.js, Node.js.
+
+Databases: MySQL, MongoDB
+
+Others: Git, GitHub, VS Code
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats" /> </p>
+📫 How to Reach Me
 
 
-<!---
-laharikabandaru/laharikabandaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: laharika573@email.com
+
